@@ -1,5 +1,5 @@
 # UGP_spatial-transcriptomics
-This is repository contains the work done during UGP under the suprevision of Prof.Hamim Zafar. In our UGP project, we were tasked with the problem of creating a joint representation of xenium and visium data to solve two tasks: imputation and deconvolution.
+This is repository contains the work done during UGP under the supervision of Prof.Hamim Zafar. In our UGP project, we were tasked with the problem of creating a joint representation of xenium and visium data to solve two tasks: imputation and deconvolution.
 
 ## Repository Contents : 
 imputation_code_and_results.ipynb: This Jupyter Notebook contains the complete workflow for the imputation task. It includes all the code for data preprocessing, model implementation, and training. The notebook is structured with the code at the beginning, followed by the "resulting plots and visualizations" at the end.
